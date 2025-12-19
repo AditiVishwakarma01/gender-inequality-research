@@ -7,6 +7,7 @@ A data-driven research project analyzing the relationship between female labor f
 pip install -r requirements.txt
 python analytics/analysis.py
 python analytics/ml_models.py
+
 ## Outputs
 - Statistical results and correlations
 - Machine learning model evaluation (MAE, RMSE)
