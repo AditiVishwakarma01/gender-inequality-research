@@ -13,3 +13,5 @@ python analytics/ml_models.py
 - Machine learning model evaluation (MAE, RMSE)
 - Feature importance rankings
 - Final visualization saved as PNG
+
+- Time-aware train/test split used to avoid data leakage
