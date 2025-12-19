@@ -1,0 +1,9 @@
+model,feature,importance
+RandomForest,female_lfp,0.26938752702805047
+RandomForest,year,0.23941083076349298
+RandomForest,cases_lag_1,0.25505557864279726
+RandomForest,cases_rolling_3,0.23614606356565926
+GradientBoosting,female_lfp,0.38979650409867506
+GradientBoosting,year,0.26503420876206146
+GradientBoosting,cases_lag_1,0.15860973314980784
+GradientBoosting,cases_rolling_3,0.18655955398945576

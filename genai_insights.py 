@@ -1,0 +1,15 @@
+import pandas as pd
+
+df = pd.read_csv("data/processed/final_analysis.csv")
+
+summary = f"""
+From 2001–2022, female labor force participation decreased
+while reported crimes against women increased.
+
+Correlation: strong negative.
+Regression coefficient: statistically significant.
+
+Discuss possible socioeconomic explanations and policy implications.
+"""
+
+print(summary)
